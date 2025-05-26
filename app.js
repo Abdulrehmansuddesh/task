@@ -1,1 +1,3 @@
-var array = []
+var array = [
+    {name:'shahraim'},
+]
