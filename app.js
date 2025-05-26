@@ -1,3 +1,8 @@
-var array = [
+
+
+    
+var array = [  
+    {name:"ahsan"}, 
+    {name:'shahraim'},
     {name:'hassan'}
 ]
